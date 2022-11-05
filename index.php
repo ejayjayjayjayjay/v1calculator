@@ -9,6 +9,7 @@
 <body>
     <div class="heading">
         <h1>EJAY SIMPLE CALCULATOR</h1>
+    </div>
         <div class="form">
             <form action="">
                 <input type="text" name="num1" placeholder="Number 1">
